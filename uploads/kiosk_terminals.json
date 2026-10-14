@@ -1,0 +1,17 @@
+[
+  {
+    "terminal_id": "KIOSK-DIETPI-9H3U",
+    "name": "Pos Gerbang Depan",
+    "ip_address": "127.0.0.1",
+    "user_agent": "curl/7.88.1",
+    "last_seen": "2026-10-02T11:08:54.552Z",
+    "clock_offset_ms": 14,
+    "pending_queue_count": 0,
+    "status": "ONLINE",
+    "app_version": "1.0",
+    "updated_at": "2026-10-02T11:08:54.552Z",
+    "created_at": "2026-10-02T11:08:54.552Z",
+    "is_online": true,
+    "seconds_ago": 0
+  }
+]

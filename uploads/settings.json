@@ -1,0 +1,80 @@
+{
+  "websiteName": "Panel Admin SMK",
+  "judulAplikasi": "Presensi Siswa SMK",
+  "judul_aplikasi": "Presensi Siswa SMK",
+  "judulPiket": "Piket Harian & Izin Siswa",
+  "judul_piket": "Piket Harian & Izin Siswa",
+  "logoBase64": "",
+  "faviconBase64": "",
+  "globalArrivalMax": "12:00",
+  "globalDepartureMin": "13:00",
+  "scannerType": "webcam",
+  "barcodeType": "qrcode",
+  "suaraSukses": "default1",
+  "suaraGagal": "default2",
+  "fileSuaraSukses": "",
+  "fileSuaraGagal": "",
+  "waMode": "automatic",
+  "wa_mode": "manual",
+  "waProvider": "fonnte",
+  "waApiUrl": "https://api.fonnte.com/send",
+  "wa_api_url": "https://api.fonnte.com/send",
+  "waApiKey": "sample_token_123",
+  "wa_api_key": "",
+  "waApiSecret": "",
+  "wa_api_secret": "",
+  "waCronTime": "14:30",
+  "wa_cron_time": "15:00",
+  "waCronDays": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "wa_cron_days": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "schedule": {
+    "Monday": {
+      "arrivalStart": "06:30",
+      "arrivalLate": "07:15",
+      "arrivalEnd": "12:00",
+      "departureStart": "13:00",
+      "departureEnd": "17:00"
+    },
+    "Tuesday": {
+      "arrivalStart": "06:30",
+      "arrivalLate": "07:15",
+      "arrivalEnd": "12:00",
+      "departureStart": "13:00",
+      "departureEnd": "17:00"
+    },
+    "Wednesday": {
+      "arrivalStart": "06:30",
+      "arrivalLate": "07:15",
+      "arrivalEnd": "12:00",
+      "departureStart": "13:00",
+      "departureEnd": "17:00"
+    },
+    "Thursday": {
+      "arrivalStart": "06:30",
+      "arrivalLate": "07:15",
+      "arrivalEnd": "12:00",
+      "departureStart": "13:00",
+      "departureEnd": "17:00"
+    },
+    "Friday": {
+      "arrivalStart": "06:30",
+      "arrivalLate": "07:15",
+      "arrivalEnd": "12:00",
+      "departureStart": "13:00",
+      "departureEnd": "17:00"
+    }
+  },
+  "studentCustomFields": []
+}

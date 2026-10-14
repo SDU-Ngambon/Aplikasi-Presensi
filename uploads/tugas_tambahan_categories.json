@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Waka Kurikulum",
+    "nama": "Waka Kurikulum",
+    "code": "WAKA_KURIKULUM",
+    "kode": "WAKA_KURIKULUM",
+    "description": "Membidangi kurikulum, pembelajaran, dan supervisi akademik",
+    "keterangan": "Membidangi kurikulum, pembelajaran, dan supervisi akademik",
+    "created_at": "2026-09-30T21:54:08+07:00"
+  },
+  {
+    "id": "cat-2",
+    "name": "Waka Kesiswaan",
+    "nama": "Waka Kesiswaan",
+    "code": "WAKA_KESISWAAN",
+    "kode": "WAKA_KESISWAAN",
+    "description": "Membidangi ketertiban, kedisiplinan, dan kegiatan siswa",
+    "keterangan": "Membidangi ketertiban, kedisiplinan, dan kegiatan siswa",
+    "created_at": "2026-09-30T21:54:08+07:00"
+  },
+  {
+    "id": "cat-3",
+    "name": "Waka Humas",
+    "nama": "Waka Humas",
+    "code": "WAKA_HUMAS",
+    "kode": "WAKA_HUMAS",
+    "description": "Membidangi hubungan masyarakat dan dunia industri / kerja",
+    "keterangan": "Membidangi hubungan masyarakat dan dunia industri / kerja",
+    "created_at": "2026-09-30T21:54:08+07:00"
+  },
+  {
+    "id": "cat-4",
+    "name": "Waka Sarpras",
+    "nama": "Waka Sarpras",
+    "code": "WAKA_SARPRAS",
+    "kode": "WAKA_SARPRAS",
+    "description": "Membidangi sarana prasarana dan inventaris sekolah",
+    "keterangan": "Membidangi sarana prasarana dan inventaris sekolah",
+    "created_at": "2026-09-30T21:54:08+07:00"
+  },
+  {
+    "id": "cat-5",
+    "name": "Guru BK",
+    "nama": "Guru BK",
+    "code": "GURU_BK",
+    "kode": "GURU_BK",
+    "description": "Bimbingan konseling dan penanganan perkembangan siswa",
+    "keterangan": "Bimbingan konseling dan penanganan perkembangan siswa",
+    "created_at": "2026-09-30T21:54:08+07:00"
+  },
+  {
+    "id": "cat-6",
+    "name": "Ka Konsentrasi Keahlian",
+    "nama": "Ka Konsentrasi Keahlian",
+    "code": "KA_KONSENTRASI_KEAHLIAN",
+    "kode": "KA_KONSENTRASI_KEAHLIAN",
+    "description": "Ketua / Koordinator Program & Konsentrasi Keahlian",
+    "keterangan": "Ketua / Koordinator Program & Konsentrasi Keahlian",
+    "created_at": "2026-09-30T21:54:08+07:00"
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "id": "s10-1",
+    "name": "Aditya Pratama Putra",
+    "nisn": "0071234001",
+    "nis": "2401",
+    "class": "12 RPL 1",
+    "year": "2026/2027",
+    "status": "AKTIF"
+  },
+  {
+    "id": "s10-2",
+    "name": "Alifia Nurul Hidayah",
+    "nisn": "0071234002",
+    "nis": "2402",
+    "class": "12 RPL 1",
+    "year": "2026/2027",
+    "status": "AKTIF"
+  },
+  {
+    "id": "s10-3",
+    "name": "Bima Satria Yudha",
+    "nisn": "0071234003",
+    "nis": "2403",
+    "class": "12 RPL 1",
+    "year": "2026/2027",
+    "status": "AKTIF"
+  },
+  {
+    "id": "s10-4",
+    "name": "Citra Kirana Azzahra",
+    "nisn": "0071234004",
+    "nis": "2404",
+    "class": "12 RPL 1",
+    "year": "2026/2027",
+    "status": "AKTIF"
+  },
+  {
+    "id": "s10-5",
+    "name": "Davin Rafasya",
+    "nisn": "0071234005",
+    "nis": "2405",
+    "class": "12 RPL 1",
+    "year": "2026/2027",
+    "status": "AKTIF"
+  },
+  {
+    "id": "s10-6",
+    "name": "Eka Bagus Saputra",
+    "nisn": "0071234006",
+    "nis": "2406",
+    "class": "12 TKJ 1",
+    "year": "2026/2027",
+    "status": "AKTIF"
+  },
+  {
+    "id": "s10-7",
+    "name": "Farhan Maulana",
+    "nisn": "0071234007",
+    "nis": "2407",
+    "class": "12 TKJ 1",
+    "year": "2026/2027",
+    "status": "AKTIF"
+  },
+  {
+    "id": "s10-8",
+    "name": "Gita Permata Sari",
+    "nisn": "0071234008",
+    "nis": "2408",
+    "class": "12 TKJ 1",
+    "year": "2026/2027",
+    "status": "AKTIF"
+  },
+  {
+    "id": "s10-9",
+    "name": "Hafizh Nur Rohman",
+    "nisn": "0071234009",
+    "nis": "2409",
+    "class": "12 TKJ 1",
+    "year": "2026/2027",
+    "status": "AKTIF"
+  },
+  {
+    "id": "s11-1",
+    "name": "Ilham Wahyu Ramadhan",
+    "nisn": "0061234001",
+    "nis": "2301",
+    "class": "Alumni 12 RPL 1",
+    "year": "2023/2024",
+    "status": "LULUS"
+  },
+  {
+    "id": "s11-2",
+    "name": "Jessica Aurelia Putri",
+    "nisn": "0061234002",
+    "nis": "2302",
+    "class": "Alumni 12 RPL 1",
+    "year": "2023/2024",
+    "status": "LULUS"
+  },
+  {
+    "id": "s11-3",
+    "name": "Kurniawan Dwi Saputra",
+    "nisn": "0061234003",
+    "nis": "2303",
+    "class": "Alumni 12 RPL 1",
+    "year": "2023/2024",
+    "status": "LULUS"
+  },
+  {
+    "id": "s11-4",
+    "name": "Laila Munawaroh",
+    "nisn": "0061234004",
+    "nis": "2304",
+    "class": "Alumni 12 RPL 1",
+    "year": "2023/2024",
+    "status": "LULUS"
+  },
+  {
+    "id": "s11-5",
+    "name": "Muhammad Fadhil Akbar",
+    "nisn": "0061234005",
+    "nis": "2305",
+    "class": "Alumni 12 TKJ 1",
+    "year": "2023/2024",
+    "status": "LULUS"
+  },
+  {
+    "id": "s11-6",
+    "name": "Nabila Syakieb Maharani",
+    "nisn": "0061234006",
+    "nis": "2306",
+    "class": "Alumni 12 TKJ 1",
+    "year": "2023/2024",
+    "status": "LULUS"
+  },
+  {
+    "id": "s11-7",
+    "name": "Oky Kurniawan",
+    "nisn": "0061234007",
+    "nis": "2307",
+    "class": "Alumni 12 TKJ 1",
+    "year": "2023/2024",
+    "status": "LULUS"
+  },
+  {
+    "id": "s11-8",
+    "name": "Putri Ayu Wandira",
+    "nisn": "0061234008",
+    "nis": "2308",
+    "class": "Alumni 12 TKJ 1",
+    "year": "2023/2024",
+    "status": "LULUS"
+  },
+  {
+    "id": "s12-1",
+    "name": "Rian Hidayatullah",
+    "nisn": "0051234001",
+    "nis": "2201",
+    "class": "12 RPL 1",
+    "year": "2022/2023",
+    "status": "LULUS"
+  },
+  {
+    "id": "s12-2",
+    "name": "Salsabila Putri Utami",
+    "nisn": "0051234002",
+    "nis": "2202",
+    "class": "12 RPL 1",
+    "year": "2022/2023",
+    "status": "LULUS"
+  },
+  {
+    "id": "s12-3",
+    "name": "Teguh Prasetyo",
+    "nisn": "0051234003",
+    "nis": "2203",
+    "class": "12 RPL 1",
+    "year": "2022/2023",
+    "status": "LULUS"
+  },
+  {
+    "id": "s12-4",
+    "name": "Umar Farouq",
+    "nisn": "0051234004",
+    "nis": "2204",
+    "class": "12 TKJ 1",
+    "year": "2022/2023",
+    "status": "LULUS"
+  },
+  {
+    "id": "s12-5",
+    "name": "Vina Panduwinata",
+    "nisn": "0051234005",
+    "nis": "2205",
+    "class": "12 TKJ 1",
+    "year": "2022/2023",
+    "status": "LULUS"
+  },
+  {
+    "id": "s12-6",
+    "name": "Wahyu Tri Pamungkas",
+    "nisn": "0051234006",
+    "nis": "2206",
+    "class": "12 TKJ 1",
+    "year": "2022/2023",
+    "status": "LULUS"
+  }
+]

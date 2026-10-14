@@ -1,0 +1,6 @@
+{
+  "summary": "Rencana implementasi pembaruan desain visual UI/UX bertema macOS Aqua dan Glassmorphism (\"Aqua Glass (macOS Modern)\") untuk seluruh antarmuka portal presensi (Admin, Guru/Kepsek/Waka, Piket, dan Pemindai Barcode) baik pada mode Desktop maupun Smartphone. Rencana mencakup palet vibrant aqua/emerald orbs, adaptasi kontras teks dinamis pada Dark/Light mode, penyesuaian mobile view Portal Guru, tata letak Bento Grid di Admin Dashboard, serta floating glass dock dan glass card components.",
+  "updatedAt": "2026-10-14T14:45:38.412834023Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

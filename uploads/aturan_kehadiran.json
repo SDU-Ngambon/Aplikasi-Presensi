@@ -1,0 +1,9 @@
+{
+  "school_latitude": -6.2088,
+  "school_longitude": 106.8456,
+  "school_location_name": "SMK Kampus Utama",
+  "max_distance_meters": 100,
+  "min_student_verification": 2,
+  "allow_manual_verification": false,
+  "updated_at": "2026-09-14T18:39:24.233Z"
+}

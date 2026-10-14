@@ -1,0 +1,65 @@
+[
+  {
+    "id": "t1",
+    "name": "Budi Prasetyo, S.Kom",
+    "nip": "198501152010011001",
+    "whatsapp": "081234567891",
+    "class": "12 RPL 1",
+    "year": "2026/2027",
+    "status": "AKTIF"
+  },
+  {
+    "id": "t2",
+    "name": "Siti Aminah, S.Pd",
+    "nip": "198703202012022002",
+    "whatsapp": "081234567892",
+    "class": "12 TKJ 1",
+    "year": "2026/2027",
+    "status": "AKTIF"
+  },
+  {
+    "id": "t3",
+    "name": "Joko Susilo, M.Kom",
+    "nip": "198207112008011003",
+    "whatsapp": "081234567893",
+    "class": "Alumni 12 RPL 1",
+    "year": "2025/2026",
+    "status": "AKTIF"
+  },
+  {
+    "id": "t4",
+    "name": "Hendra Wijaya, S.T",
+    "nip": "198912042015031004",
+    "whatsapp": "081234567894",
+    "class": "Alumni 12 TKJ 1",
+    "year": "2025/2026",
+    "status": "AKTIF"
+  },
+  {
+    "id": "t5",
+    "name": "Maya Anggraini, S.Pd",
+    "nip": "199004182016022005",
+    "whatsapp": "081234567895",
+    "class": "Alumni 12 RPL 1",
+    "year": "2022/2023",
+    "status": "AKTIF"
+  },
+  {
+    "id": "t6",
+    "name": "Agus Wahyudi, S.Kom",
+    "nip": "198409252009011006",
+    "whatsapp": "081234567896",
+    "class": "Alumni 12 TKJ 1",
+    "year": "2022/2023",
+    "status": "AKTIF"
+  },
+  {
+    "id": "t7",
+    "name": "Lina Marlina, S.Pd",
+    "nip": "199205102018022007",
+    "whatsapp": "081234567897",
+    "class": "12 RPL 2",
+    "year": "2026/2027",
+    "status": "NONAKTIF"
+  }
+]

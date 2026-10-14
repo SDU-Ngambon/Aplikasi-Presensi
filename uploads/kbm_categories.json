@@ -1,0 +1,30 @@
+[
+  {
+    "id": "cat_upacara",
+    "name": "Upacara",
+    "color": "#ef4444",
+    "is_teaching": false,
+    "description": "Upacara bendera / apel kebangsaan"
+  },
+  {
+    "id": "cat_apel",
+    "name": "Apel",
+    "color": "#10b981",
+    "is_teaching": false,
+    "description": "Apel pagi & pembiasaan"
+  },
+  {
+    "id": "cat_kbm",
+    "name": "KBM",
+    "color": "#2563eb",
+    "is_teaching": true,
+    "description": "Kegiatan Belajar Mengajar tatap muka"
+  },
+  {
+    "id": "cat_istirahat",
+    "name": "Istirahat",
+    "color": "#f59e0b",
+    "is_teaching": false,
+    "description": "Istirahat & waktu ibadah"
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "students": [],
+  "teachers": [],
+  "attendance": [],
+  "settings": {
+    "schedule": {
+      "Monday": {
+        "arrivalStart": "06:00",
+        "arrivalLate": "07:15",
+        "arrivalEnd": "08:00",
+        "departureStart": "15:00",
+        "departureEnd": "17:00"
+      },
+      "Tuesday": {
+        "arrivalStart": "06:00",
+        "arrivalLate": "07:15",
+        "arrivalEnd": "08:00",
+        "departureStart": "15:00",
+        "departureEnd": "17:00"
+      },
+      "Wednesday": {
+        "arrivalStart": "06:00",
+        "arrivalLate": "07:15",
+        "arrivalEnd": "08:00",
+        "departureStart": "15:00",
+        "departureEnd": "17:00"
+      },
+      "Thursday": {
+        "arrivalStart": "06:00",
+        "arrivalLate": "07:15",
+        "arrivalEnd": "08:00",
+        "departureStart": "15:00",
+        "departureEnd": "17:00"
+      },
+      "Friday": {
+        "arrivalStart": "06:00",
+        "arrivalLate": "07:15",
+        "arrivalEnd": "08:00",
+        "departureStart": "15:00",
+        "departureEnd": "17:00"
+      }
+    },
+    "adminUsername": "admin",
+    "adminPassword": "password",
+    "studentCustomFields": [],
+    "waApiUrl": "",
+    "waApiKey": "",
+    "waApiSecret": "",
+    "scannerType": "webcam"
+  }
+}

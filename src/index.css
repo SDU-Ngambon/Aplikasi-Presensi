@@ -1,0 +1,373 @@
+@import "tailwindcss";
+
+/* Global Portal Background override */
+:root {
+  --portal-bg-image: none;
+}
+
+body.has-portal-bg {
+  background-image: var(--portal-bg-image) !important;
+  background-size: cover !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+}
+
+/* ============================================================== */
+/* macOS Aqua & Glassmorphism Theme System                        */
+/* ============================================================== */
+
+/* Vibrant Aqua Emerald Mesh Background with Dynamic Light Orbs */
+html.theme-aqua_glass body,
+body.theme-aqua_glass {
+  background-color: #f0fdfa !important;
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(56, 189, 248, 0.28) 0px, transparent 48%),
+    radial-gradient(at 100% 0%, rgba(16, 185, 129, 0.22) 0px, transparent 48%),
+    radial-gradient(at 100% 100%, rgba(14, 165, 233, 0.25) 0px, transparent 50%),
+    radial-gradient(at 0% 100%, rgba(52, 211, 153, 0.20) 0px, transparent 50%),
+    radial-gradient(at 50% 50%, rgba(125, 211, 252, 0.16) 0px, transparent 60%) !important;
+  background-attachment: fixed !important;
+  background-size: cover !important;
+  min-height: 100vh;
+}
+
+html.theme-aqua_glass.dark body,
+body.theme-aqua_glass.dark {
+  background-color: #030712 !important;
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(14, 165, 233, 0.35) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(5, 150, 105, 0.30) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, rgba(2, 132, 199, 0.30) 0px, transparent 50%),
+    radial-gradient(at 0% 100%, rgba(16, 185, 129, 0.25) 0px, transparent 50%),
+    radial-gradient(at 50% 50%, rgba(3, 105, 161, 0.22) 0px, transparent 60%) !important;
+  background-attachment: fixed !important;
+  background-size: cover !important;
+  min-height: 100vh;
+}
+
+/* Glass Panel Component for Aqua Glass */
+.glass-panel-aqua {
+  background: var(--card-bg) !important;
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid var(--glass-border) !important;
+  box-shadow: var(--glass-shadow) !important;
+}
+
+/* Floating Glass Dock Navigation */
+.floating-glass-dock {
+  background: rgba(255, 255, 255, 0.65) !important;
+  backdrop-filter: blur(24px) saturate(190%);
+  -webkit-backdrop-filter: blur(24px) saturate(190%);
+  border: 1px solid rgba(255, 255, 255, 0.8) !important;
+  box-shadow: 0 12px 36px 0 rgba(2, 132, 199, 0.16), 0 4px 12px 0 rgba(0, 0, 0, 0.06), inset 0 1px 0 rgba(255, 255, 255, 0.9) !important;
+}
+
+.dark .floating-glass-dock {
+  background: rgba(15, 23, 42, 0.65) !important;
+  backdrop-filter: blur(24px) saturate(190%);
+  -webkit-backdrop-filter: blur(24px) saturate(190%);
+  border: 1px solid rgba(255, 255, 255, 0.16) !important;
+  box-shadow: 0 16px 40px 0 rgba(0, 0, 0, 0.6), inset 0 1px 0 rgba(255, 255, 255, 0.12) !important;
+}
+
+/* macOS Aqua Gloss Capsule Button */
+.aqua-gloss-btn {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.95) 0%, rgba(240, 253, 250, 0.85) 50%, rgba(204, 251, 241, 0.95) 100%) !important;
+  border: 1px solid rgba(255, 255, 255, 0.9) !important;
+  box-shadow: 0 4px 14px 0 rgba(14, 165, 233, 0.25), inset 0 1px 0 rgba(255, 255, 255, 1) !important;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.aqua-gloss-btn:hover {
+  transform: translateY(-1px) scale(1.02);
+  box-shadow: 0 6px 18px 0 rgba(14, 165, 233, 0.35), inset 0 1px 0 rgba(255, 255, 255, 1) !important;
+}
+
+.dark .aqua-gloss-btn {
+  background: linear-gradient(180deg, rgba(56, 189, 248, 0.25) 0%, rgba(14, 165, 233, 0.35) 50%, rgba(2, 132, 199, 0.45) 100%) !important;
+  border: 1px solid rgba(56, 189, 248, 0.4) !important;
+  box-shadow: 0 4px 16px 0 rgba(56, 189, 248, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.3) !important;
+  color: #f8fafc !important;
+}
+
+/* Frosted Emerald / Aqua Glass Banner */
+.frosted-aqua-banner {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.22) 0%, rgba(14, 165, 233, 0.26) 100%) !important;
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.7) !important;
+  box-shadow: 0 10px 30px -5px rgba(16, 185, 129, 0.18), inset 0 1px 0 rgba(255, 255, 255, 0.8) !important;
+}
+
+.dark .frosted-aqua-banner {
+  background: linear-gradient(135deg, rgba(6, 78, 59, 0.45) 0%, rgba(12, 74, 110, 0.50) 100%) !important;
+  border: 1px solid rgba(52, 211, 153, 0.25) !important;
+  box-shadow: 0 12px 32px -5px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.15) !important;
+}
+
+/* ============================================================== */
+/* Dynamic High-Contrast Form Inputs & Table Styling (Anti-Text-Loss) */
+/* ============================================================== */
+
+/* Dark Mode Input & Label Rules */
+.dark .MuiInputLabel-root {
+  color: #cbd5e1 !important;
+}
+.dark .MuiInputLabel-root.Mui-focused {
+  color: #38bdf8 !important;
+}
+
+.dark .MuiOutlinedInput-root {
+  color: #f8fafc !important;
+  background-color: rgba(15, 23, 42, 0.55) !important;
+}
+.dark .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(255, 255, 255, 0.22) !important;
+}
+.dark .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(255, 255, 255, 0.45) !important;
+}
+.dark .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #38bdf8 !important;
+}
+.dark .MuiInputBase-input {
+  color: #f8fafc !important;
+}
+.dark .MuiInputBase-input::placeholder {
+  color: #94a3b8 !important;
+  opacity: 1 !important;
+}
+.dark .MuiSelect-select {
+  color: #f8fafc !important;
+}
+.dark .MuiSelect-icon {
+  color: #cbd5e1 !important;
+}
+
+/* Dark Mode Table Styling */
+.dark .MuiTableCell-root {
+  color: #f8fafc !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12) !important;
+}
+.dark .MuiTableCell-head {
+  color: #f8fafc !important;
+  font-weight: 800 !important;
+  background-color: rgba(30, 41, 59, 0.85) !important;
+}
+
+/* Dark Mode Dropdown & Popovers */
+.dark .MuiAutocomplete-paper,
+.dark .MuiMenu-paper,
+.dark .MuiPickersPopper-root .MuiPaper-root {
+  background-color: #0f172a !important;
+  color: #f8fafc !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.6) !important;
+}
+.dark .MuiAutocomplete-option {
+  color: #f8fafc !important;
+}
+.dark .MuiMenuItem-root {
+  color: #f8fafc !important;
+}
+.dark .MuiPickersCalendarHeader-label,
+.dark .MuiPickersDay-root {
+  color: #f8fafc !important;
+}
+.dark .MuiDayCalendar-weekDayLabel {
+  color: #94a3b8 !important;
+}
+.dark .MuiIconButton-root {
+  color: #cbd5e1;
+}
+
+/* Light Mode Input & Label Rules */
+.light .MuiInputLabel-root {
+  color: #334155 !important;
+}
+.light .MuiInputLabel-root.Mui-focused {
+  color: #0284c7 !important;
+}
+
+.light .MuiOutlinedInput-root {
+  color: #0f172a !important;
+  background-color: rgba(255, 255, 255, 0.70) !important;
+}
+.light .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0, 0, 0, 0.18) !important;
+}
+.light .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(2, 132, 199, 0.45) !important;
+}
+.light .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #0284c7 !important;
+}
+.light .MuiInputBase-input {
+  color: #0f172a !important;
+}
+.light .MuiInputBase-input::placeholder {
+  color: #64748b !important;
+  opacity: 1 !important;
+}
+.light .MuiSelect-select {
+  color: #0f172a !important;
+}
+.light .MuiSelect-icon {
+  color: #475569 !important;
+}
+.light .MuiTableCell-root {
+  color: #0f172a !important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08) !important;
+}
+.light .MuiTableCell-head {
+  color: #0f172a !important;
+  font-weight: 800 !important;
+}
+
+/* Sidebar Dark/Light Contrast Rules */
+.light .admin-sidebar-text,
+.theme-aqua_glass:not(.dark) .admin-sidebar-text {
+  color: #1e293b !important;
+}
+.light .admin-sidebar-category,
+.theme-aqua_glass:not(.dark) .admin-sidebar-category {
+  color: #334155 !important;
+}
+.light .admin-sidebar-icon,
+.theme-aqua_glass:not(.dark) .admin-sidebar-icon {
+  color: #475569 !important;
+}
+
+.dark .admin-sidebar-text {
+  color: #f8fafc !important;
+}
+.dark .admin-sidebar-category {
+  color: rgba(255, 255, 255, 0.75) !important;
+}
+.dark .admin-sidebar-icon {
+  color: rgba(255, 255, 255, 0.70) !important;
+}
+
+
+@media screen {
+  #print-root,
+  #printable-cards-area,
+  .print-only {
+    display: none !important;
+  }
+}
+
+@media print {
+  @page {
+    margin: 8mm 10mm;
+    size: auto;
+  }
+
+  html, body {
+    background: #ffffff !important;
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    width: 100% !important;
+    height: auto !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: visible !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Hide all non-printable elements */
+  .no-print,
+  .print-hide,
+  header,
+  nav,
+  aside,
+  .MuiDrawer-root,
+  .MuiAppBar-root,
+  .MuiTablePagination-root,
+  .no-print * {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Full visibility for card print containers */
+  #printable-cards-area,
+  #print-root,
+  .printable-cards-area,
+  .print-only {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 12px !important;
+    visibility: visible !important;
+    position: static !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 10px !important;
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    overflow: visible !important;
+  }
+
+  #printable-cards-area *,
+  #print-root *,
+  .printable-cards-area *,
+  .print-only * {
+    visibility: visible !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  main {
+    padding: 0 !important;
+    margin: 0 !important;
+    overflow: visible !important;
+    background: transparent !important;
+  }
+
+  .print-page-break {
+    page-break-after: always !important;
+    break-after: page !important;
+  }
+
+  .print-avoid-break {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  table {
+    width: 100% !important;
+    max-width: 100% !important;
+    border-collapse: collapse !important;
+    page-break-inside: auto !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+  }
+
+  tr {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  thead {
+    display: table-header-group !important;
+  }
+
+  tfoot {
+    display: table-footer-group !important;
+  }
+
+  th, td {
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+  }
+
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+}

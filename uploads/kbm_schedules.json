@@ -1,0 +1,464 @@
+[
+  {
+    "day_index": 1,
+    "day_name": "Senin",
+    "is_active": true,
+    "periods": [
+      {
+        "jp_number": 1,
+        "start_time": "07:00",
+        "end_time": "07:45",
+        "category_id": "cat_upacara",
+        "category_name": "Upacara"
+      },
+      {
+        "jp_number": 2,
+        "start_time": "07:45",
+        "end_time": "08:30",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 3,
+        "start_time": "08:30",
+        "end_time": "09:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 4,
+        "start_time": "09:15",
+        "end_time": "10:00",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 5,
+        "start_time": "10:00",
+        "end_time": "10:30",
+        "category_id": "cat_istirahat",
+        "category_name": "Istirahat"
+      },
+      {
+        "jp_number": 6,
+        "start_time": "10:30",
+        "end_time": "11:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 7,
+        "start_time": "11:15",
+        "end_time": "12:00",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 8,
+        "start_time": "12:00",
+        "end_time": "12:45",
+        "category_id": "cat_istirahat",
+        "category_name": "Istirahat"
+      },
+      {
+        "jp_number": 9,
+        "start_time": "12:45",
+        "end_time": "13:30",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 10,
+        "start_time": "13:30",
+        "end_time": "14:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 11,
+        "start_time": "14:15",
+        "end_time": "15:00",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 12,
+        "start_time": "15:00",
+        "end_time": "15:45",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      }
+    ]
+  },
+  {
+    "day_index": 2,
+    "day_name": "Selasa",
+    "is_active": true,
+    "periods": [
+      {
+        "jp_number": 1,
+        "start_time": "07:00",
+        "end_time": "07:45",
+        "category_id": "cat_apel",
+        "category_name": "Apel"
+      },
+      {
+        "jp_number": 2,
+        "start_time": "07:45",
+        "end_time": "08:30",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 3,
+        "start_time": "08:30",
+        "end_time": "09:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 4,
+        "start_time": "09:15",
+        "end_time": "10:00",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 5,
+        "start_time": "10:00",
+        "end_time": "10:30",
+        "category_id": "cat_istirahat",
+        "category_name": "Istirahat"
+      },
+      {
+        "jp_number": 6,
+        "start_time": "10:30",
+        "end_time": "11:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 7,
+        "start_time": "11:15",
+        "end_time": "12:00",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 8,
+        "start_time": "12:00",
+        "end_time": "12:45",
+        "category_id": "cat_istirahat",
+        "category_name": "Istirahat"
+      },
+      {
+        "jp_number": 9,
+        "start_time": "12:45",
+        "end_time": "13:30",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 10,
+        "start_time": "13:30",
+        "end_time": "14:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 11,
+        "start_time": "14:15",
+        "end_time": "15:00",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 12,
+        "start_time": "15:00",
+        "end_time": "15:45",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      }
+    ]
+  },
+  {
+    "day_index": 3,
+    "day_name": "Rabu",
+    "is_active": true,
+    "periods": [
+      {
+        "jp_number": 1,
+        "start_time": "07:00",
+        "end_time": "07:45",
+        "category_id": "cat_apel",
+        "category_name": "Apel"
+      },
+      {
+        "jp_number": 2,
+        "start_time": "07:45",
+        "end_time": "08:30",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 3,
+        "start_time": "08:30",
+        "end_time": "09:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 4,
+        "start_time": "09:15",
+        "end_time": "10:00",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 5,
+        "start_time": "10:00",
+        "end_time": "10:30",
+        "category_id": "cat_istirahat",
+        "category_name": "Istirahat"
+      },
+      {
+        "jp_number": 6,
+        "start_time": "10:30",
+        "end_time": "11:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 7,
+        "start_time": "11:15",
+        "end_time": "12:00",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 8,
+        "start_time": "12:00",
+        "end_time": "12:45",
+        "category_id": "cat_istirahat",
+        "category_name": "Istirahat"
+      },
+      {
+        "jp_number": 9,
+        "start_time": "12:45",
+        "end_time": "13:30",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 10,
+        "start_time": "13:30",
+        "end_time": "14:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 11,
+        "start_time": "14:15",
+        "end_time": "15:00",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 12,
+        "start_time": "15:00",
+        "end_time": "15:45",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      }
+    ]
+  },
+  {
+    "day_index": 4,
+    "day_name": "Kamis",
+    "is_active": true,
+    "periods": [
+      {
+        "jp_number": 1,
+        "start_time": "07:00",
+        "end_time": "07:45",
+        "category_id": "cat_apel",
+        "category_name": "Apel"
+      },
+      {
+        "jp_number": 2,
+        "start_time": "07:45",
+        "end_time": "08:30",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 3,
+        "start_time": "08:30",
+        "end_time": "09:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 4,
+        "start_time": "09:15",
+        "end_time": "10:00",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 5,
+        "start_time": "10:00",
+        "end_time": "10:30",
+        "category_id": "cat_istirahat",
+        "category_name": "Istirahat"
+      },
+      {
+        "jp_number": 6,
+        "start_time": "10:30",
+        "end_time": "11:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 7,
+        "start_time": "11:15",
+        "end_time": "12:00",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 8,
+        "start_time": "12:00",
+        "end_time": "12:45",
+        "category_id": "cat_istirahat",
+        "category_name": "Istirahat"
+      },
+      {
+        "jp_number": 9,
+        "start_time": "12:45",
+        "end_time": "13:30",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 10,
+        "start_time": "13:30",
+        "end_time": "14:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 11,
+        "start_time": "14:15",
+        "end_time": "15:00",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 12,
+        "start_time": "15:00",
+        "end_time": "15:45",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      }
+    ]
+  },
+  {
+    "day_index": 5,
+    "day_name": "Jumat",
+    "is_active": true,
+    "periods": [
+      {
+        "jp_number": 1,
+        "start_time": "07:00",
+        "end_time": "07:45",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 2,
+        "start_time": "07:45",
+        "end_time": "08:30",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 3,
+        "start_time": "08:30",
+        "end_time": "09:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 4,
+        "start_time": "09:15",
+        "end_time": "09:45",
+        "category_id": "cat_istirahat",
+        "category_name": "Istirahat"
+      },
+      {
+        "jp_number": 5,
+        "start_time": "09:45",
+        "end_time": "10:30",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 6,
+        "start_time": "10:30",
+        "end_time": "11:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      }
+    ]
+  },
+  {
+    "day_index": 6,
+    "day_name": "Sabtu",
+    "is_active": true,
+    "periods": [
+      {
+        "jp_number": 1,
+        "start_time": "07:00",
+        "end_time": "07:45",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 2,
+        "start_time": "07:45",
+        "end_time": "08:30",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 3,
+        "start_time": "08:30",
+        "end_time": "09:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 4,
+        "start_time": "09:15",
+        "end_time": "09:45",
+        "category_id": "cat_istirahat",
+        "category_name": "Istirahat"
+      },
+      {
+        "jp_number": 5,
+        "start_time": "09:45",
+        "end_time": "10:30",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      },
+      {
+        "jp_number": 6,
+        "start_time": "10:30",
+        "end_time": "11:15",
+        "category_id": "cat_kbm",
+        "category_name": "KBM"
+      }
+    ]
+  }
+]
